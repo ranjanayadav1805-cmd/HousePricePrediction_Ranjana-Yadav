@@ -5,6 +5,7 @@ Overview
 
 This project predicts house prices using Linear Regression and Random Forest models.
 
+
 Dataset
 
 . Source:
@@ -13,6 +14,7 @@ Kaggle Housing Prices Dataset
 . Size: 545 properties
 
 . Features: Area, bathrooms, bedrooms, stories, parking, etc.
+
 
 Results
 
@@ -23,7 +25,9 @@ Results
 
 . MAE: $970,043
 
+
 Files
+
 
 
 . analysis.ipynb - Complete analysis notebook
@@ -34,7 +38,9 @@ Files
 
 . charts/ - Visualizations
 
+
 Key Findings
+
 
 . Area is the strongest predictor of house price
 
@@ -42,6 +48,8 @@ Key Findings
 
 
 . Linear Regression outperformed Random Forest
+
+
 
 Tools Used
 
